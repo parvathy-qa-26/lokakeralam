@@ -4639,3 +4639,476 @@ Session ID: 7f7d239d5ae9d25eb5ff2c139fb86009
 2026-03-23 16:28:48.243 [main] INFO  createNewAssociation - Environment: QA
 2026-03-23 16:29:08.654 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
 2026-03-23 16:29:09.074 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-23 17:05:52.257 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-23 17:05:52.259 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-23 17:05:52.261 [main] INFO  createNewAssociation - Environment: QA
+2026-03-23 17:06:35.187 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-23 17:06:35.590 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 10:07:49.566 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 10:07:49.573 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 10:07:49.574 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 10:09:03.511 [main] INFO  createNewAssociation - Test PASSED: createNewAssociation
+2026-03-24 10:09:04.212 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 10:24:17.090 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 10:24:17.096 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 10:24:17.096 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 10:24:20.613 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 10:24:20.929 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 10:24:31.356 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 10:24:31.358 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 10:24:31.358 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 10:25:03.074 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 10:25:03.741 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 10:25:43.339 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 10:25:43.341 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 10:25:43.341 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 10:26:15.079 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 10:26:15.727 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 10:27:00.123 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 10:27:00.133 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 10:27:00.133 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 10:27:31.919 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 10:27:32.593 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 10:29:12.462 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 10:29:12.468 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 10:29:12.468 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 10:29:44.279 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 10:29:44.939 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 10:30:26.084 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 10:30:26.090 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 10:30:26.090 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 10:30:57.873 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 10:30:58.566 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 10:34:53.794 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 10:34:53.801 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 10:34:53.801 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 10:35:22.593 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 10:35:23.322 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 10:36:44.036 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 10:36:44.045 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 10:36:44.045 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 10:37:11.241 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 10:37:11.933 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 10:38:46.676 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 10:38:46.682 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 10:38:46.682 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 10:39:33.316 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 10:39:34.111 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 10:40:03.808 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 10:40:03.815 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 10:40:03.815 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 10:41:38.647 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 10:41:39.433 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:02:20.748 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:02:20.756 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:02:20.757 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:02:43.227 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:02:43.913 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:06:01.473 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:06:01.483 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:06:01.483 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:06:37.026 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:06:37.301 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:08:41.002 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:08:41.008 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:08:41.008 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:09:04.496 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:09:05.186 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:09:20.923 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:09:20.930 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:09:20.930 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:09:50.151 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:09:50.931 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:10:08.167 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:10:08.171 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:10:08.171 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:10:34.317 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:10:34.674 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:10:43.041 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:10:43.045 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:10:43.045 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:11:12.165 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:11:12.547 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:11:23.029 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:11:23.035 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:11:23.035 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:14:12.953 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:14:13.742 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:23:59.521 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:23:59.529 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:23:59.529 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:24:23.391 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:24:24.357 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:24:55.158 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:24:55.161 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:24:55.161 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:25:22.403 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:25:23.181 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:25:38.934 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:25:38.942 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:25:38.942 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:26:08.533 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:26:08.920 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:26:17.723 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:26:17.731 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:26:17.732 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:26:44.542 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:26:44.923 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:26:53.236 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:26:53.253 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:26:53.257 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:27:49.860 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:27:50.275 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:40:48.072 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:40:48.075 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:40:48.075 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:42:44.448 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:42:45.229 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:43:30.656 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:43:30.660 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:43:30.660 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:44:18.947 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:44:19.385 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:44:27.555 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:44:27.558 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:44:27.563 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:45:00.721 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:45:01.537 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:45:42.287 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:45:42.293 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:45:42.294 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:46:11.056 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:46:11.885 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:47:47.006 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:47:47.012 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:47:47.013 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:48:11.424 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:48:11.931 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:48:32.343 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:48:32.351 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:48:32.351 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:49:22.572 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:49:22.940 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:49:33.841 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:49:33.847 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:49:33.849 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:50:09.698 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:50:10.111 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 11:50:22.394 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 11:50:22.401 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 11:50:22.401 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 11:50:46.096 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 11:50:46.957 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 12:34:08.359 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 12:34:08.365 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 12:34:08.365 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 12:34:40.094 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 12:34:40.852 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 12:35:07.068 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 12:35:07.074 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 12:35:07.074 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 12:35:38.943 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 12:35:39.734 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 13:53:01.133 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 13:53:01.142 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 13:53:01.143 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 13:53:04.061 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 13:53:04.453 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 13:53:41.474 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 13:53:41.477 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 13:53:41.477 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 13:54:08.972 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 13:54:09.792 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 13:54:36.223 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 13:54:36.232 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 13:54:36.233 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 13:56:23.701 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 13:56:24.394 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 13:57:55.317 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 13:57:55.325 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 13:57:55.325 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 13:59:12.641 [main] INFO  createNewAssociation - Test PASSED: createNewAssociation
+2026-03-24 13:59:13.342 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 14:00:45.028 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 14:00:45.032 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 14:00:45.036 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 14:02:04.455 [main] INFO  createNewAssociation - Test PASSED: createNewAssociation
+2026-03-24 14:02:05.154 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 14:26:21.097 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 14:26:21.105 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 14:26:21.105 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 14:27:43.605 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 14:27:44.303 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 14:43:15.207 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 14:43:15.212 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 14:43:15.213 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 14:45:00.018 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 14:45:00.696 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 14:55:41.353 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 14:55:41.357 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 14:55:41.357 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 14:57:05.699 [main] INFO  createNewAssociation - Test PASSED: createNewAssociation
+2026-03-24 14:57:06.417 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 15:06:50.094 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 15:06:50.096 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 15:06:50.097 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 15:07:11.528 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 15:07:11.771 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 15:09:23.015 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 15:09:23.017 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 15:09:23.017 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 15:10:00.866 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 15:10:01.148 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 15:10:34.408 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 15:10:34.410 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 15:10:34.411 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 15:11:14.617 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 15:11:14.878 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 15:21:39.623 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 15:21:39.626 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 15:21:39.627 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 15:22:19.469 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 15:22:19.710 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 15:24:50.351 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 15:24:50.355 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 15:24:50.355 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 15:25:29.442 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 15:25:29.790 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 15:27:30.339 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 15:27:30.342 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 15:27:30.342 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 15:28:11.499 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 15:28:11.754 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 15:29:07.342 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 15:29:07.345 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 15:29:07.345 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 15:29:37.865 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 15:29:38.276 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 16:36:05.565 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 16:36:05.568 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 16:36:05.568 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 16:36:24.570 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 16:36:24.917 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 16:37:18.028 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 16:37:18.032 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 16:37:18.032 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 16:37:43.586 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 16:37:43.864 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 16:37:52.038 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 16:37:52.041 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 16:37:52.041 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 16:38:32.685 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 16:38:32.922 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 16:39:02.536 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 16:39:02.538 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 16:39:02.538 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 16:39:23.576 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 16:39:23.816 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 16:39:32.663 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 16:39:32.666 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 16:39:32.666 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 16:40:13.897 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 16:40:14.144 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-24 16:41:14.595 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-24 16:41:14.597 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-24 16:41:14.599 [main] INFO  createNewAssociation - Environment: QA
+2026-03-24 16:41:44.847 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-24 16:41:45.133 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 10:26:50.185 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 10:26:50.188 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 10:26:50.192 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 10:27:21.982 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 10:27:22.705 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 10:33:44.238 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 10:33:44.243 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 10:33:44.243 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 10:34:16.000 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 10:34:16.730 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 10:49:31.788 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 10:49:31.794 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 10:49:31.794 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 10:50:03.558 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 10:50:04.268 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 10:50:18.540 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 10:50:18.546 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 10:50:18.546 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 10:50:42.061 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 10:50:42.973 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 11:33:36.974 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 11:33:36.980 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 11:33:36.980 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 11:36:59.092 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 11:36:59.098 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 11:36:59.098 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 11:48:05.937 [main] INFO  createNewAssociation - Test PASSED: createNewAssociation
+2026-03-26 11:48:06.925 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 11:51:34.353 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 11:51:34.357 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 11:51:34.357 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 11:52:10.255 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 11:52:10.589 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 11:52:18.671 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 11:52:18.679 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 11:52:18.679 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 11:52:40.846 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 11:52:41.577 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 11:53:13.413 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 11:53:13.418 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 11:53:13.421 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 11:53:37.215 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 11:53:37.973 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:04:30.144 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:04:30.149 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:04:30.149 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:04:57.500 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:04:58.274 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:05:11.240 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:05:11.248 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:05:11.248 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:05:45.100 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:05:45.455 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:05:54.986 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:05:54.991 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:05:54.993 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:06:22.537 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:06:22.941 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:06:32.910 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:06:32.917 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:06:32.917 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:07:10.646 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:07:11.343 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:07:47.693 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:07:47.706 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:07:47.706 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:08:18.312 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:08:19.082 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:08:35.539 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:08:35.546 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:08:35.548 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:09:00.311 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:09:01.079 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:09:14.046 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:09:14.054 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:09:14.054 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:09:55.303 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:09:55.974 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:19:57.932 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:19:57.939 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:19:57.939 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:20:55.912 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:20:56.868 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:21:20.578 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:21:20.586 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:21:20.588 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:21:52.428 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:21:53.306 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:22:17.985 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:22:17.992 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:22:17.994 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:22:43.769 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:22:44.720 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:22:57.362 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:22:57.368 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:22:57.371 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:23:26.319 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:23:27.291 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:23:41.386 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:23:41.387 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:23:41.387 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:24:42.653 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:24:43.569 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:26:00.680 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:26:00.687 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:26:00.687 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:26:28.717 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:26:29.651 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:26:54.087 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:26:54.091 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:26:54.091 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:27:46.084 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:27:46.343 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:56:21.822 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:56:21.825 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:56:21.825 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:56:58.530 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:56:58.936 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:57:22.831 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:57:22.835 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:57:22.835 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:58:03.724 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:58:03.985 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:58:19.346 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:58:19.349 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:58:19.349 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:58:39.998 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:58:40.252 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:58:46.061 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:58:46.066 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:58:46.066 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 15:59:12.540 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 15:59:12.796 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 15:59:19.149 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 15:59:19.151 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 15:59:19.151 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 16:00:05.792 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 16:00:06.119 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 16:01:01.500 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 16:01:01.505 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 16:01:01.505 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 16:01:29.999 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 16:01:30.383 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 16:01:41.281 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 16:01:41.284 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 16:01:41.284 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 16:02:17.917 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 16:02:18.164 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 16:02:28.316 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 16:02:28.321 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 16:02:28.321 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 16:03:06.761 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 16:03:07.069 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 16:04:24.345 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 16:04:24.348 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 16:04:24.348 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 16:05:06.187 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 16:05:06.452 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 16:35:59.601 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 16:35:59.605 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 16:35:59.605 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 16:36:33.083 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 16:36:33.332 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 16:36:39.026 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 16:36:39.029 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 16:36:39.029 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 16:37:22.047 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 16:37:22.310 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-26 16:44:14.117 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-26 16:44:14.120 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-26 16:44:14.120 [main] INFO  createNewAssociation - Environment: QA
+2026-03-26 16:44:58.751 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-26 16:44:59.028 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-27 12:16:13.964 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-27 12:16:13.968 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-27 12:16:13.972 [main] INFO  createNewAssociation - Environment: QA
+2026-03-27 12:16:40.468 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-27 12:16:40.904 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-27 12:16:51.550 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-27 12:16:51.556 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-27 12:16:51.556 [main] INFO  createNewAssociation - Environment: QA
+2026-03-27 12:17:23.336 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-27 12:17:24.071 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-27 12:17:41.235 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-27 12:17:41.240 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-27 12:17:41.240 [main] INFO  createNewAssociation - Environment: QA
+2026-03-27 12:18:02.546 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-27 12:18:03.320 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-27 12:18:25.758 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-27 12:18:25.764 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-27 12:18:25.764 [main] INFO  createNewAssociation - Environment: QA
+2026-03-27 12:19:04.348 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-27 12:19:05.064 [main] INFO  createNewAssociation - Test suite execution completed
+2026-03-30 15:11:15.924 [main] INFO  createNewAssociation - Navigated to URL: https://qa.lokakeralamonline.kerala.gov.in/
+2026-03-30 15:11:15.934 [main] INFO  createNewAssociation - Browser: CHROME
+2026-03-30 15:11:15.934 [main] INFO  createNewAssociation - Environment: QA
+2026-03-30 15:11:49.829 [main] ERROR createNewAssociation - Test FAILED: createNewAssociation
+2026-03-30 15:11:50.622 [main] INFO  createNewAssociation - Test suite execution completed

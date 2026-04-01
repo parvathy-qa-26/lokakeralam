@@ -14,7 +14,6 @@ import java.io.IOException;
 
 public class AssociationCreation_Test extends Hook {
 
-
     /*@Test(dataProvider = "loginData", dataProviderClass = Utils.ExcelDataProvider.class, priority = 1)
         public void loginTest(String email, String password) {
             LoginPage loginPage = new LoginPage(driver);
@@ -23,7 +22,7 @@ public class AssociationCreation_Test extends Hook {
             loginPage.clickExploreButton();
             loginPage.login(email, password);
 
-            Assert.assertTrue(loginPage.isLoginSuccessful(), "Login failed for: " + email);
+         Assert.assertTrue(loginPage.isLoginSuccessful(), "Login failed for: " + email);
         }*/
 
     @Test(
@@ -31,20 +30,21 @@ public class AssociationCreation_Test extends Hook {
             dataProviderClass = Utils.ExcelDataProvider.class
     )
 
-
-    public void createNewAssociation(String username, String password, String email,
+    public void createNewAssociation(String username,
+                                     String password,
+                                     String email,
                                      String phoneNumber,
                                      String whatsapp,
                                      String website,
                                      String organisationName,
                                      String shortName,
-                                     String date,
                                      String description,
                                      String objectives,
                                      String activities,
                                      String name,
                                      String officeemail,
-                                     String mobilenumber, String name1,
+                                     String mobilenumber,
+                                     String name1,
                                      String officeemail1,
                                      String mobilenumber1) throws InterruptedException {
         LoginPage loginPage = new LoginPage(driver);
@@ -63,13 +63,11 @@ public class AssociationCreation_Test extends Hook {
         );
         associationCreation.saveCoverPhoto();
 
-        // Step 4: Upload profile logo
         associationCreation.uploadProfileLogo(
                 "C:\\Loka_KeralamOnline_QA-main\\src\\test\\resources\\uploads\\association.jpg"
         );
         associationCreation.saveProfilePhoto();
 
-        // Step 5: Fill contact details
         associationCreation.fillContactDetails(
                 email,
                 phoneNumber,
@@ -78,20 +76,18 @@ public class AssociationCreation_Test extends Hook {
         );
         associationCreation.fillAssociationDetails(
                 organisationName,
-                shortName,
-                date
+                shortName
         );
 
-        //associationCreation.moveMarkerToKuwait();
+        associationCreation.moveMarkerToKuwaitAndGetDetails();
         associationCreation.enterDescription(description);
         associationCreation.enterObjectives(objectives);
         associationCreation.enterActivities(activities);
         associationCreation.enterOfficeBearerDetails(name, officeemail, mobilenumber);
         associationCreation.enterOfficeBearerDetailsTwo(name1, officeemail1, mobilenumber1);
-        //associationCreation.selectTitleAndUpload("C:\\Loka_KeralamOnline_QA-main\\src\\test\\resources\\uploads\\file-example_PDF_1MB.pdf");
+        associationCreation.selectTitleAndUpload("C:\\Loka_KeralamOnline_QA-main\\src\\test\\resources\\uploads\\file-example_PDF_1MB.pdf", "Copy of Registration Certificate");
         associationCreation.selectFacilities();
         associationCreation.selectWorkingDaySunday();
         associationCreation.selectWorkingDaySaturday();
-
     }
 }

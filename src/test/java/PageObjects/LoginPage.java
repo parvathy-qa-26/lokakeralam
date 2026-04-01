@@ -39,8 +39,6 @@ public class LoginPage extends BasePage {
 
     public void clickCloseButton() throws InterruptedException {
         Thread.sleep(1000);
-        System.out.println(driver.getPageSource().contains("Close"));
-
         click(closebtn);
     }
 
@@ -48,7 +46,7 @@ public class LoginPage extends BasePage {
         click(ClickExplore);
     }
 
-    public void login(String email, String password) {
+    public void login(String email,String password) {
         waitForPageLoad();
         sendKeys(enterEmail, email);
         sendKeys(enterPassword, password);
@@ -73,7 +71,6 @@ public class LoginPage extends BasePage {
     public void logout() {
         click(profileIcon);
         click(btnLogout);
+
     }
-
-
 }

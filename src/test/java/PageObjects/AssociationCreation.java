@@ -2,15 +2,14 @@ package PageObjects;
 
 import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.interactions.Interactive;
-import org.openqa.selenium.interactions.PointerInput;
-import org.openqa.selenium.interactions.Sequence;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.testng.Assert;
 
 import java.time.Duration;
-import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
 
 public class AssociationCreation extends BasePage {
     private Actions actions;
@@ -18,10 +17,7 @@ public class AssociationCreation extends BasePage {
     public AssociationCreation(WebDriver driver) {
         super(driver);
         this.actions = new Actions(driver);
-        ;
-
     }
-
 
     @FindBy(xpath = "//span[normalize-space()='My Pages']")
     private WebElement myPages;
@@ -61,33 +57,20 @@ public class AssociationCreation extends BasePage {
     @FindBy(xpath = "//label[normalize-space()='Total Members*']/following::input[1]")
     private WebElement txtTotalMembers;
 
-
-    @FindBy(xpath = "//img[contains(@src,'transparent.png')]/parent::div")
-    private WebElement markerElement;
-
-    @FindBy(xpath = "//button[@aria-label='Map camera controls']")
-    private WebElement cameraControls;
-
-    @FindBy(xpath = "//button[@aria-label='Move up']")
-    private WebElement moveUpButton;
-
-    @FindBy(xpath = "//button[@aria-label='Move left']")
-    private WebElement moveLeftButton;
-
-    @FindBy(xpath = "//td[text()='Country']/following-sibling::td")
-    private WebElement countryField;
-
-    @FindBy(xpath = "//td[text()='Region']/following-sibling::td")
-    private WebElement regionField;
-
-    @FindBy(xpath = "//td[text()='City']/following-sibling::td")
-    private WebElement cityField;
-
-    @FindBy(xpath = "//td[text()='Latitude, Longitude']/following-sibling::td")
-    private WebElement latLonField;
-
-    @FindBy(xpath = "//button[@aria-label='Toggle fullscreen view' and @aria-pressed='false']")
-    private WebElement btnFullScreen;  // same button toggles back
+    @FindBy(xpath = "//button[@class='gm-control-active gm-fullscreen-control']")
+    private WebElement btnFullScreen;
+    @FindBy(xpath = "//iframe[@tabindex='-1']")
+    private WebElement mapIframe;
+    @FindBy(xpath = "//map[@id='gmimap0']//area")
+    private WebElement mapDragger;
+    @FindBy(xpath = "//td[normalize-space()='Country']/following-sibling::td")
+    private WebElement countryValue;
+    @FindBy(xpath = "//td[normalize-space()='Region']/following-sibling::td")
+    private WebElement regionValue;
+    @FindBy(xpath = "//td[normalize-space()='City']/following-sibling::td")
+    private WebElement cityValue;
+    @FindBy(xpath = "//td[normalize-space()='Latitude, Longitude']/following-sibling::td")
+    private WebElement latLongValue;
 
     @FindBy(xpath = "//span[normalize-space()='Brief Description of Association*']/following::div[@contenteditable='true'][1]")
     private WebElement associationDescriptionField;
@@ -124,11 +107,10 @@ public class AssociationCreation extends BasePage {
     private WebElement pageContentEditor1;
 
 
-    @FindBy(xpath = "//input[@name='proofOfAssociation.0.title']/preceding-sibling::div ")
+    @FindBy(xpath = "//input[@name='proofOfAssociation.0.title']/preceding-sibling::div[@role='combobox']")
     WebElement titleDropdown;
-    @FindBy(xpath="//div[contains(@class,'Mui') and normalize-space()='Affiliation certificate']")
+    @FindBy(xpath = "//input[@name='proofOfAssociation.0.title']/preceding-sibling::div[normalize-space()='Copy of Registration Certificate']")
     WebElement titleSelection;
-
     @FindBy(xpath = "//input[@type='file' and @name='proofOfAssociation.0.file']")
     WebElement uploadFileInput;
 
@@ -148,9 +130,9 @@ public class AssociationCreation extends BasePage {
     private WebElement saturdayEndTime;
     @FindBy(xpath = "//button[normalize-space()='Sunday']")
     private WebElement sunday;
-    @FindBy(xpath="//label[normalize-space()='Open Time']/following::input[@type='time'][1]")
+    @FindBy(xpath = "//label[normalize-space()='Open Time']/following::input[@type='time'][1]")
     private WebElement sundayStartTime;
-    @FindBy(xpath="//label[normalize-space()='Close Time']/following::input[@type='time'][1]")
+    @FindBy(xpath = "//label[normalize-space()='Close Time']/following::input[@type='time'][1]")
     private WebElement sundayEndTime;
 
     public void openMyPages() {
@@ -192,66 +174,52 @@ public class AssociationCreation extends BasePage {
 
     public void fillAssociationDetails(
             String organisationName,
-            String shortName,
-            String date
-
+            String shortName
     ) throws InterruptedException {
         click(dropDownAssociationType);
         click(selectAssociationType);
         js.executeScript("arguments[0].scrollIntoView(true);", checkboxAssociationStructureLabel);
         js.executeScript("arguments[0].click();", checkboxAssociationStructureLabel);
 
-
         js.executeScript("arguments[0].scrollIntoView(true);", checkboxMembershipType);
         js.executeScript("arguments[0].click();", checkboxMembershipType);
 
         sendKeys(txtAssociationName, organisationName);
         sendKeys(txtShortName, shortName);
-        //js.executeScript("arguments[0].click();", txtDOB);
 
-        txtDOB.sendKeys(Keys.CONTROL + "a");  // select existing value
-        txtDOB.sendKeys(Keys.DELETE);
-        sendKeys(txtDOB, date);
+        sendKeys(txtDOB, "04-27-2012");
         sendKeys(txtTotalMembers, "50");
+
     }
-
-    public void moveMarkerToKuwait() throws InterruptedException {
-        // Step 1: Open fullscreen
-        wait.until(ExpectedConditions.elementToBeClickable(btnFullScreen)).click();
-
-        // Step 2: Zoom in for precision
-        for (int i = 0; i < 2; i++) {
-            wait.until(ExpectedConditions.elementToBeClickable(cameraControls)).click();
-            Thread.sleep(500);
+    public void moveMarkerToKuwaitAndGetDetails() {
+        // Toggle fullscreen
+        btnFullScreen.click();
+        for (String handle : driver.getWindowHandles()) {
+            driver.switchTo().window(handle);
         }
 
-        // Step 3: Activate map by clicking a camera control once
-        wait.until(ExpectedConditions.elementToBeClickable(moveUpButton)).click();
-        Thread.sleep(500);
+        // Switch into iframe
+        driver.switchTo().frame(mapIframe);
 
-        // Step 4: Move the marker itself to Kuwait using JavaScript
-        ((JavascriptExecutor) driver).executeScript(
-                "if (typeof marker !== 'undefined') {" +
-                        "  marker.setPosition(new google.maps.LatLng(29.3759, 47.9774));" +
-                        "  google.maps.event.trigger(marker, 'dragend');" +
-                        "}"
+        // Move marker using JS (precise)
+        JavascriptExecutor js = (JavascriptExecutor) driver;
+        js.executeScript(
+                "var marker = window.liveMarker || null;" +
+                        "if(marker){ marker.setPosition({lat: 29.3759, lng: 47.9774}); }"
         );
 
-        // Step 5: Wait until coordinates are close to Kuwait
-        wait.until(driver -> {
-            String coords = latLonField.getText();
-            String[] parts = coords.split(",");
-            double lat = Double.parseDouble(parts[0].trim());
-            double lon = Double.parseDouble(parts[1].trim());
-            return Math.abs(lat - 29.3759) < 0.5 && Math.abs(lon - 47.9774) < 0.5;
-        });
+        // Switch back
+        driver.switchTo().defaultContent();
 
-        // Step 6: Print updated values
-        System.out.println("Country: " + countryField.getText());
-        System.out.println("Region: " + regionField.getText());
-        System.out.println("City: " + cityField.getText());
-        System.out.println("Coordinates: " + latLonField.getText());
+        // Verify updated fields
+        Assert.assertEquals(countryValue.getText(), "Kuwait");
+        Assert.assertTrue(regionValue.getText().contains("Kuwait"));
+        Assert.assertEquals(cityValue.getText(), "Kuwait City");
+        Assert.assertTrue(latLongValue.getText().contains("29.3759"));
+        Assert.assertTrue(latLongValue.getText().contains("47.9774"));
     }
+
+
 
 
     public void enterDescription(String description) {
@@ -298,13 +266,17 @@ public class AssociationCreation extends BasePage {
     }
 
 
-    public void selectTitleAndUpload(String filePath) {
-        js.executeScript("window.scrollBy(0,400);");
+    public void selectTitleAndUpload(String filePath, String optionText) {
+        js.executeScript("window.scrollBy(0,200);");
 
-        clickUsingJS(titleSelection);
+        click(titleDropdown);
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
+
+        WebElement option = wait.until(ExpectedConditions
+                .visibilityOfElementLocated(By.xpath("//li[normalize-space()='" + optionText + "']")));
+        option.click();
         uploadFileInput.sendKeys(filePath);
     }
-
 
     public void selectFacilities() {
         js.executeScript("window.scrollBy(0,400);");
@@ -317,19 +289,19 @@ public class AssociationCreation extends BasePage {
         js.executeScript("window.scrollBy(0,400);");
         click(sunday);
         click(sundayStartTime);
-        sendKeys(sundayStartTime,"05:00");
+        sendKeys(sundayStartTime, "05:00");
         click(sundayEndTime);
-        sendKeys(sundayEndTime,"09:00");
+        sendKeys(sundayEndTime, "09:00");
 
     }
+
     public void selectWorkingDaySaturday() {
         js.executeScript("window.scrollBy(0,400);");
         click(saturday);
         click(saturdayStartTime);
-        sendKeys(saturdayStartTime,"06:00");
+        sendKeys(saturdayStartTime, "06:00");
         click(saturdayEndTime);
-        sendKeys(saturdayEndTime,"09:00");
-
+        sendKeys(saturdayEndTime, "09:00");
 
     }
 }
